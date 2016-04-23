@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TicTacToe</string>
+    <string name="noImplement">Not implemented yet</string>
 </resources>

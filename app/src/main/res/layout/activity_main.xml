@@ -30,11 +30,12 @@
         android:layout_height="wrap_content"
         android:text="INSTRUCTIONS"
         android:background="@color/colorPrimary"
-        android:textSize="40dp"
+        android:textSize="36dp"
         android:textColor="@color/white"
         android:gravity="center"
         android:layout_marginTop="30dp"
-        android:padding="30dp"
+        android:padding="25dp"
+        android:onClick="noImplement"
         />
 
 </RelativeLayout>
