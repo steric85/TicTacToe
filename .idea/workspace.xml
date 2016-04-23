@@ -2245,6 +2245,13 @@
       <option name="number" value="Default" />
       <updated>1456151845131</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added no implementation toast">
+      <created>1461435067280</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1461435067280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2293,6 +2300,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added no implementation toast" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added no implementation toast" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
